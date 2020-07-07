@@ -1,4 +1,4 @@
-FROM docker:latest
+FROM docker:18.06.1-ce
 
 LABEL authors="Eungoo Jung a.k.a SilverNine <akasilvernine@gmail.com>"
 
