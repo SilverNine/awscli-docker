@@ -1,6 +1,6 @@
 FROM docker:latest
 
-LABEL authors="Eungoo Jung <akasilvernine@gmail.com>"
+LABEL authors="Eungoo Jung a.k.a SilverNine <akasilvernine@gmail.com>"
 
 RUN apk add --purge --no-cache --update \
       py3-pip
